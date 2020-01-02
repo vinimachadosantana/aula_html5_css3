@@ -1,0 +1,30 @@
+body {
+    background: #FFA07A;
+    margin-left: 30px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1, h2 {
+    color: #8B0000;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 130px;
+}
